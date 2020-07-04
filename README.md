@@ -13,6 +13,4 @@ My TF2 config stuff. Intended for use with [mastercomfig](https://mastercomfig.c
 3. `git clone https://github.com/Leo40Git/TF2Config <insert-folder-name-here>`
 
 # Updating
-1. Go to where you installed this thing (`C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom\<insert-folder-name-here>`).
-2. Open up whatever command shell you've got.
-3. `git pull`
+Simply run `update.sh`!
