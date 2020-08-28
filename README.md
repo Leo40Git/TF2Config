@@ -1,5 +1,5 @@
 # Leo's TF2 Config
-My TF2 config stuff. Intended for use with [mastercomfig](https://mastercomfig.com) (Medium preset, Flat Mouse, Null-Cancelling Movement and No Tutorial) and [clovervidia's captions](http://steamcommunity.com/sharedfiles/filedetails/?id=167785751).
+My TF2 config stuff. Intended for use with [mastercomfig](https://mastercomfig.com) (Medium preset, Flat Mouse, Null-Cancelling Movement and No Tutorial) and [budhud](https://github.com/rbjaxter/budhud).
 
 ### Sources
 * Aar's [TF2 Essentials](https://aarmastah.xyz/misc/tf2e/) (blocking `unbindall` and `closed_htmlpage`, Engineer quick-build binds, a bunch of the keybinds)
