@@ -17,13 +17,15 @@ Intended for use with:
 1. Go to your TF2's `custom` directory. On Windows, this is `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`.
 2. Open up whatever command shell you've got.
 3. `git clone https://github.com/Leo40Git/TF2Config <insert-folder-name-here>`
+
 **Manually**
 1. Download this repo (Code -> Download ZIP)
 2. Go to your TF2's `custom` directory. On Windows, this is `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`.
 3. Unzip the repo archive into there.
 
 # Updating
-**Using Git (requires you to have Git installed)**
+**Using Git (requires you to have Git installed)**  
 Simply run `update.sh`!
-**Manually**
+
+**Manually**  
 Just reinstall it!
