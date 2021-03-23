@@ -12,20 +12,20 @@ Intended for use with:
 * The [Official TF2 Wiki](https://wiki.teamfortress.com/)'s ["Scripting" page](https://wiki.teamfortress.com/wiki/Scripting).
 * "Reset" keybinds are from a [JUUDOLF](https://www.youtube.com/channel/UCCq2Ed9Uw4notIpCzVuXPog) video, I'm pretty sure
 
-# Installing
-**Using Git (requires you to have Git installed)**
+## Installing
+### Using Git (requires you to have Git installed)
 1. Go to your TF2's `custom` directory. On Windows, this is `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`.
 2. Open up whatever command shell you've got.
 3. `git clone https://github.com/Leo40Git/TF2Config <insert-folder-name-here>`
 
-**Manually**
+### Manually
 1. Download this repo (Code -> Download ZIP)
 2. Go to your TF2's `custom` directory. On Windows, this is `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`.
 3. Unzip the repo archive into there.
 
-# Updating
-**Using Git (requires you to have Git installed)**  
+## Updating
+### Using Git (requires you to have Git installed)
 Simply run `update.sh`!
 
-**Manually**  
+### Manually
 Just reinstall it!
