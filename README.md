@@ -3,11 +3,11 @@ My TF2 config stuff.
 
 Intended for use with:
 * [mastercomfig](https://mastercomfig.com) (High preset, Flat Mouse, Null-Canceling Movement and No Tutorial)
-* [budhud](https://github.com/rbjaxter/budhud)
+* [Middle Mann HUD](https://gamebanana.com/mods/445578)
 * [junior's loadouts and resupply script](https://github.com/juniorsgithub/tf2-loadouts-script)
 
 ### Sources
-* Aar's [TF2 Essentials](https://aarmastah.xyz/misc/tf2e/) (blocking `unbindall` and `closed_htmlpage`, Engineer quick-build binds, a bunch of the keybinds)
+* Aar's [TF2 Essentials](https://aarmastah.xyz/misc/tf2e/) (Engineer quick-build binds, a bunch of the keybinds)
 * [r/tf2scripthelp](https://old.reddit.com/r/tf2scripthelp)'s ["Common Scripts" wiki page](https://old.reddit.com/r/tf2scripthelp/wiki/commonscripts)
 * The [Official TF2 Wiki](https://wiki.teamfortress.com/)'s ["Scripting" page](https://wiki.teamfortress.com/wiki/Scripting).
 * "Reset" keybinds are from a [JUUDOLF](https://www.youtube.com/channel/UCCq2Ed9Uw4notIpCzVuXPog) video, I'm pretty sure
