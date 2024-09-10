@@ -5,6 +5,7 @@ Intended for use with:
 * [mastercomfig](https://mastercomfig.com) (High preset, Flat Mouse, Null-Canceling Movement and No Tutorial)
 * [Middle Mann HUD](https://gamebanana.com/mods/445578)
 * [junior's loadouts and resupply script](https://github.com/juniorsgithub/tf2-loadouts-script)
+* [clovervidia's captions](https://github.com/clovervidia/clovervidias-captions)
 
 ### Sources
 * Aar's [TF2 Essentials](https://aarmastah.xyz/misc/tf2e/) (Engineer quick-build binds, a bunch of the keybinds)
