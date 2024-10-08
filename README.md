@@ -3,7 +3,7 @@ My TF2 config stuff.
 
 Intended for use with:
 * [mastercomfig](https://mastercomfig.com) (High preset, Flat Mouse, Null-Canceling Movement and No Tutorial)
-* [Middle Mann HUD](https://gamebanana.com/mods/445578)
+* [DarHud](https://gamebanana.com/mods/463048)
 * [junior's loadouts and resupply script](https://github.com/juniorsgithub/tf2-loadouts-script)
 * [clovervidia's captions](https://github.com/clovervidia/clovervidias-captions)
 
